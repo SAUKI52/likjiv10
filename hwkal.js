@@ -21,21 +21,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'reninvisible0@gmail.com'
+global.youtube = 'https://youtube.com/channel/UC5I3OREWpf87XEXg5qTWB-g' // ubah aia
+global.ig = 'YT_SAUKI_OFFICIAL' // ubah aja
+global.email = 'muhammadalfinzidna561@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'SAUKI OFFICIAL' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'SAUKI 𝐁𝐎𝐓𝐙' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'SAUKI OFFICIAL' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288213043878'] // ubah aja pake nomor lu
-global.premium = ['6288213043878)1'] // ubah aja pake nomor lu
-global.packname = '𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙' // ubah aja
-global.ownerr = ['𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙'] // ubaha aja
-global.author = '𝑨𝑹𝑭𝑰 𝐁𝐎𝐓𝐙' //ubah aja
+global.owner = ['62895357313987'] // ubah aja pake nomor lu
+global.premium = ['62895357313987)1'] // ubah aja pake nomor lu
+global.packname = 'SAUKI OFFICIAL' // ubah aja
+global.ownerr = ['SAUKI OFFICIAL '] // ubaha aja
+global.author = 'SAUKI OFFICIAL' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
